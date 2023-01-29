@@ -27,8 +27,10 @@ inverse=np.linalg.inv(A)
 
 print(inverse)
 ```
+
 ## Output:
 ![inv_of_matrix](https://user-images.githubusercontent.com/121215739/214834252-aa6e1571-97bd-4e17-81c0-b8c5a314232c.png)
+
 
 ## Result:
 Thus the inverse of given matrix is successfully solved using python program
